@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ControlhogarApplication<controlhogar>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.vsoton.app.controlhogar.ControlhogarApplication",
+            "projectName": "controlhogar",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
